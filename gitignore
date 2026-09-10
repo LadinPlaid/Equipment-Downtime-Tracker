@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Eclipse settings
+.metadata/
+.settings/
+.classpath
+.project
+
+# Local SQLite databases
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
